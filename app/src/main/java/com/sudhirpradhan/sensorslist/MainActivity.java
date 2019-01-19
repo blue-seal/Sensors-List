@@ -14,9 +14,7 @@ import java.util.List;
 
 public class MainActivity extends Activity {
     private SensorManager mSensorManager;
-
     TextView tvTextView;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
